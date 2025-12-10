@@ -1,0 +1,36 @@
+{
+  "employee": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "+4712345678",
+    "department": "IT",
+    "role": "Software Developer",
+    "contractType": "Full-time",
+    "joiningDate": "2024-01-15",
+    "dob": "1990-05-20",
+    "gender": "Male",
+    "street": "Test Street 123",
+    "postalCode": "0150",
+    "city": "Oslo",
+    "country": "Norway",
+    "active": true
+  },
+  "department": {
+    "name": "Testing Department",
+    "icon": "mdi-test-tube",
+    "color": "primary",
+    "totalTasks": 0,
+    "unassignedTasks": 0,
+    "totalEmployees": 0,
+    "employeesWithUnassigned": 0
+  },
+  "leave": {
+    "employeeEmail": "john.doe@example.com",
+    "type": "paid_holiday",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-05",
+    "comment": "Summer vacation"
+  }
+}
+
